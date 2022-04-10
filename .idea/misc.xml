@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.2671875" />
+        <entry key="app/src/main/res/layout/activity_detail_post.xml" value="0.3115100316789863" />
+        <entry key="app/src/main/res/layout/activity_list_post.xml" value="0.1503623188405797" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22649787679521755" />
+        <entry key="app/src/main/res/layout/fragment_detail_photo.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_detail_post.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_detail_user.xml" value="0.3458333333333333" />
+        <entry key="app/src/main/res/layout/fragment_list_cat.xml" value="0.1296875" />
+        <entry key="app/src/main/res/layout/fragment_list_post.xml" value="0.16394927536231885" />
+        <entry key="app/src/main/res/layout/fragment_list_users.xml" value="0.1867584802564533" />
+        <entry key="app/src/main/res/layout/item_album.xml" value="0.22817780063296533" />
+        <entry key="app/src/main/res/layout/item_cat.xml" value="0.2520833333333333" />
+        <entry key="app/src/main/res/layout/item_comment.xml" value="0.38587334957933184" />
+        <entry key="app/src/main/res/layout/item_photo.xml" value="0.23505434782608695" />
+        <entry key="app/src/main/res/layout/item_post.xml" value="0.43396616853725306" />
+        <entry key="app/src/main/res/layout/item_user.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

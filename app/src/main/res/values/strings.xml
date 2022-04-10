@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="comment">Comment</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="company">Company</string>
+    <string name="catastrophic_app">Catastrophic App</string>
+    <string name="separation">:</string>
+    <string name="error">Error</string>
+</resources>
