@@ -1,1 +1,1 @@
-# zalora-catostrophic
+# medium-catostrophic
